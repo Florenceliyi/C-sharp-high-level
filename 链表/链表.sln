@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "链表", "链表\链表.csproj", "{DFFF2EB6-759A-4450-9B6D-ADD03873E6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFF2EB6-759A-4450-9B6D-ADD03873E6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFF2EB6-759A-4450-9B6D-ADD03873E6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFF2EB6-759A-4450-9B6D-ADD03873E6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFF2EB6-759A-4450-9B6D-ADD03873E6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3939BA7-B077-48C6-867B-488F0FEFA5E1}
+	EndGlobalSection
+EndGlobal

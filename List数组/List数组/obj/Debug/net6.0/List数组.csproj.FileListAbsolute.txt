@@ -1,0 +1,15 @@
+C:\Users\28204\source\repos\List数组\List数组\bin\Debug\net6.0\List数组.exe
+C:\Users\28204\source\repos\List数组\List数组\bin\Debug\net6.0\List数组.deps.json
+C:\Users\28204\source\repos\List数组\List数组\bin\Debug\net6.0\List数组.runtimeconfig.json
+C:\Users\28204\source\repos\List数组\List数组\bin\Debug\net6.0\List数组.dll
+C:\Users\28204\source\repos\List数组\List数组\bin\Debug\net6.0\List数组.pdb
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\List数组.csproj.AssemblyReference.cache
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\List数组.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\List数组.AssemblyInfoInputs.cache
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\List数组.AssemblyInfo.cs
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\List数组.csproj.CoreCompileInputs.cache
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\List数组.dll
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\refint\List数组.dll
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\List数组.pdb
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\List数组.genruntimeconfig.cache
+C:\Users\28204\source\repos\List数组\List数组\obj\Debug\net6.0\ref\List数组.dll

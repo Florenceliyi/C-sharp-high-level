@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List数组", "List数组\List数组.csproj", "{067CD7E8-AF6A-4611-88E3-1E74035F966F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067CD7E8-AF6A-4611-88E3-1E74035F966F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067CD7E8-AF6A-4611-88E3-1E74035F966F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067CD7E8-AF6A-4611-88E3-1E74035F966F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067CD7E8-AF6A-4611-88E3-1E74035F966F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F27EB6-D3F3-46CA-A099-9A556F17841C}
+	EndGlobalSection
+EndGlobal
