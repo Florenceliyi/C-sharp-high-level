@@ -1,0 +1,15 @@
+E:\C#进阶\委托delegate\委托delegate\bin\Debug\net6.0\委托delegate.exe
+E:\C#进阶\委托delegate\委托delegate\bin\Debug\net6.0\委托delegate.deps.json
+E:\C#进阶\委托delegate\委托delegate\bin\Debug\net6.0\委托delegate.runtimeconfig.json
+E:\C#进阶\委托delegate\委托delegate\bin\Debug\net6.0\委托delegate.dll
+E:\C#进阶\委托delegate\委托delegate\bin\Debug\net6.0\委托delegate.pdb
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\委托delegate.csproj.AssemblyReference.cache
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\委托delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\委托delegate.AssemblyInfoInputs.cache
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\委托delegate.AssemblyInfo.cs
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\委托delegate.csproj.CoreCompileInputs.cache
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\委托delegate.dll
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\refint\委托delegate.dll
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\委托delegate.pdb
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\委托delegate.genruntimeconfig.cache
+E:\C#进阶\委托delegate\委托delegate\obj\Debug\net6.0\ref\委托delegate.dll

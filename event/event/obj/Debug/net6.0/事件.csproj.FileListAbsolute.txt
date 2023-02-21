@@ -1,0 +1,15 @@
+E:\C#进阶\event\event\bin\Debug\net6.0\事件.exe
+E:\C#进阶\event\event\bin\Debug\net6.0\事件.deps.json
+E:\C#进阶\event\event\bin\Debug\net6.0\事件.runtimeconfig.json
+E:\C#进阶\event\event\bin\Debug\net6.0\事件.dll
+E:\C#进阶\event\event\bin\Debug\net6.0\事件.pdb
+E:\C#进阶\event\event\obj\Debug\net6.0\事件.csproj.AssemblyReference.cache
+E:\C#进阶\event\event\obj\Debug\net6.0\事件.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#进阶\event\event\obj\Debug\net6.0\事件.AssemblyInfoInputs.cache
+E:\C#进阶\event\event\obj\Debug\net6.0\事件.AssemblyInfo.cs
+E:\C#进阶\event\event\obj\Debug\net6.0\事件.csproj.CoreCompileInputs.cache
+E:\C#进阶\event\event\obj\Debug\net6.0\事件.dll
+E:\C#进阶\event\event\obj\Debug\net6.0\refint\事件.dll
+E:\C#进阶\event\event\obj\Debug\net6.0\事件.pdb
+E:\C#进阶\event\event\obj\Debug\net6.0\事件.genruntimeconfig.cache
+E:\C#进阶\event\event\obj\Debug\net6.0\ref\事件.dll
