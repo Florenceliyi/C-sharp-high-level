@@ -1,0 +1,15 @@
+E:\C#进阶\反射\反射\bin\Debug\net6.0\反射.exe
+E:\C#进阶\反射\反射\bin\Debug\net6.0\反射.deps.json
+E:\C#进阶\反射\反射\bin\Debug\net6.0\反射.runtimeconfig.json
+E:\C#进阶\反射\反射\bin\Debug\net6.0\反射.dll
+E:\C#进阶\反射\反射\bin\Debug\net6.0\反射.pdb
+E:\C#进阶\反射\反射\obj\Debug\net6.0\反射.csproj.AssemblyReference.cache
+E:\C#进阶\反射\反射\obj\Debug\net6.0\反射.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#进阶\反射\反射\obj\Debug\net6.0\反射.AssemblyInfoInputs.cache
+E:\C#进阶\反射\反射\obj\Debug\net6.0\反射.AssemblyInfo.cs
+E:\C#进阶\反射\反射\obj\Debug\net6.0\反射.csproj.CoreCompileInputs.cache
+E:\C#进阶\反射\反射\obj\Debug\net6.0\反射.dll
+E:\C#进阶\反射\反射\obj\Debug\net6.0\refint\反射.dll
+E:\C#进阶\反射\反射\obj\Debug\net6.0\反射.pdb
+E:\C#进阶\反射\反射\obj\Debug\net6.0\反射.genruntimeconfig.cache
+E:\C#进阶\反射\反射\obj\Debug\net6.0\ref\反射.dll

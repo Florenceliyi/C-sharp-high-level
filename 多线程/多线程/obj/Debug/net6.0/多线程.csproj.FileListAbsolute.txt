@@ -1,0 +1,15 @@
+E:\C#进阶\多线程\多线程\bin\Debug\net6.0\多线程.exe
+E:\C#进阶\多线程\多线程\bin\Debug\net6.0\多线程.deps.json
+E:\C#进阶\多线程\多线程\bin\Debug\net6.0\多线程.runtimeconfig.json
+E:\C#进阶\多线程\多线程\bin\Debug\net6.0\多线程.dll
+E:\C#进阶\多线程\多线程\bin\Debug\net6.0\多线程.pdb
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\多线程.csproj.AssemblyReference.cache
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\多线程.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\多线程.AssemblyInfoInputs.cache
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\多线程.AssemblyInfo.cs
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\多线程.csproj.CoreCompileInputs.cache
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\多线程.dll
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\refint\多线程.dll
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\多线程.pdb
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\多线程.genruntimeconfig.cache
+E:\C#进阶\多线程\多线程\obj\Debug\net6.0\ref\多线程.dll
